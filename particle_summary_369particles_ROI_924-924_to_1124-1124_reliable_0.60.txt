@@ -1,0 +1,20 @@
+Particle Analysis Summary
+========================
+
+Total particles detected (before filtering): 379
+Particles after filtering: 369
+Analysis region: ROI (924,924) → (1124,1124)
+Image size: 2048 x 2048 pixels
+Pixel size: 0.500 nm/pixel
+Analysis parameters:
+  - Minimum particle size: 11 pixels
+  - Threshold: 0.568
+
+Size Distribution Statistics (Equivalent Diameter):
+  - Mean: 2.053 nm
+  - Std Dev: 0.612 nm
+  - Min: 0.977 nm
+  - Max: 4.784 nm
+  - Median: 1.953 nm
+  - Q1 (25%): 1.595 nm
+  - Q3 (75%): 2.392 nm
